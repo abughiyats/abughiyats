@@ -1,4 +1,4 @@
-# Hi there, You can call me Angga or Abu Ghiyats!  👋
+# Hi there, I'm Angga!  👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/anggaprabes-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anggaprabes/)
 [![Facebook Badge](https://img.shields.io/badge/anggaprabes-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://facebook.com/anggaprabes)
@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/abughiyaats-informational?style=flat&logo=instagram&logoColor=white&color=eb3489)](https://instagram.com/abughiyaats)
 [![Github Badge](https://img.shields.io/badge/abughiyats-informational?style=flat&logo=github&logoColor=white&color=343536)](https://github.com/abughiyats)
 
-I have enthusiasm in technology and want to be a software engineer who can solve user problems. My ambition to become a Software Engineer is to contribute to providing innovations in developing useful applications and optimizing work for the general public.
+You can call me Angga or Abu Ghiyats, I have enthusiasm in technology and want to be a software engineer who can solve user problems. My ambition to become a Software Engineer is to contribute to providing innovations in developing useful applications and optimizing work for the general public.
 
 ### Skills ✨
 ```
