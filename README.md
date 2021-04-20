@@ -10,7 +10,7 @@ You can call me Angga or Abu Ghiyats, I have enthusiasm in technology and want t
 
 ### Skills ✨
 ```
-PHP, Codeigniter, Laravel, Go, Javascript, Python, Flutter, Linux
+PHP, Codeigniter, Laravel, Go, Javascript, Flutter, Linux
 ```
 
 <!--
